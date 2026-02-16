@@ -1,0 +1,18 @@
+﻿
+> frontend@0.0.0 lint
+> eslint .
+
+
+Z:\Hostel Locker System\frontend\src\api\lockers.ts
+  15:62  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  38:56  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+  46:58  error  Unexpected any. Specify a different type  @typescript-eslint/no-explicit-any
+
+Z:\Hostel Locker System\frontend\src\hooks\useIsAdmin.ts
+  24:22  error  'error' is defined but never used  @typescript-eslint/no-unused-vars
+
+Z:\Hostel Locker System\frontend\src\pages\AdminDashboard.tsx
+  28:8  warning  React Hook useEffect has a missing dependency: 'fetchLockers'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Γ£û 5 problems (4 errors, 1 warning)
+

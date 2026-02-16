@@ -1,0 +1,13 @@
+﻿
+> frontend@0.0.0 lint
+> eslint .
+
+
+Z:\Hostel Locker System\frontend\src\hooks\useIsAdmin.ts
+  24:22  error  'error' is defined but never used  @typescript-eslint/no-unused-vars
+
+Z:\Hostel Locker System\frontend\src\pages\AdminDashboard.tsx
+  28:8  warning  React Hook useEffect has a missing dependency: 'fetchLockers'. Either include it or remove the dependency array  react-hooks/exhaustive-deps
+
+Γ£û 2 problems (1 error, 1 warning)
+
